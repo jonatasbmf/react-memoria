@@ -1,11 +1,11 @@
-import * as C from './styles';
+import * as C from './Styles';
 
 type Props = {
     label: string,
     value: string
 }
 
-export const InfoItem = ({ label, value }: Props) => {
+export const Infoitem = ({ label, value }: Props) => {
     return (
         <C.Container>
             <C.Label>{label}</C.Label>
