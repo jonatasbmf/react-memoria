@@ -1,18 +1,19 @@
 # Criado com os comandos abaixo
 
-`npx create-react-app react-memoria --template=typescript`
-`npm install styled-components`
+`npx create-react-app react-memoria --template=typescript` 
+
+`npm install styled-components` 
+
 `npm install -D @types/styled-components`
 
 ## Para instalar node_modules
-
 `npm install`
 
 ### Para rodar
 `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Rodando em modo Dev.\
+ [http://localhost:3000](http://localhost:3000) .
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
